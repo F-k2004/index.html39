@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>🛰️ Ion Engine Spacecraft HUD</title>
-<tyle>
+<style>
   html,body{
     margin:0;
     overflow:hidden;
